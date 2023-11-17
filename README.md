@@ -1,6 +1,6 @@
 Welcome to my travel! I created this project while i was learning React
-
-![Sample Output](https://github.com/prajwl-dh/)
+https://chic-cassata-7f52a1.netlify.app/
+![Sample Output](https://github.com/prajwl-dh/my-travel-journal/blob/main/prajwal's%20travel%20journal%20ss.png)
 
 How to run:
 1. Install nodejs
